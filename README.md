@@ -11,6 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husamrio&label=Profile%20views&color=0e75b6&style=flat" alt="husamrio" /> </p>
 
 <p align="left"> <a href="https://twitter.com/husamrio" target="blank"><img src="https://img.shields.io/twitter/follow/husamrio?logo=twitter&style=for-the-badge" alt="husamrio" /></a> </p>
+
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
 - 🌱 I’m currently learning **Full-stack software engineering @ AlX/Holberton,Coursera,CS50 & Udemy.**
@@ -20,6 +21,12 @@
 - 📫 How to reach me **zulfiqrd@gmail.com**
 
 - ⚡ Fun fact **Your brain’s storage capacity is considered virtually unlimited**
+-  **I am an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development & Frontend and student studying B.Eng in Robotics & Artificial Intelligence Engineering.**
+- **I share innovative tech solutions and insights on my [YouTube Channel](//https://www.youtube.com/channel/UCmjKfnD4oDd_lod_7_T4Scw)** 
+- **`Fun fact about me`**  **I speak fluent sarcasm but cannot write bug-free codes** 😅  😅
+- **`Favorite Quote:`** **If you are always trying to be Normal, you will never know how amazing you can be!**
+- **For inquiries or opportunities, please send me an e-mail** ***zulfiqrd@gmail.com***
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -30,6 +37,8 @@
 <a href="https://twitter.com/husamrio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husamrio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hussein-wario-57a297249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-wario-57a297249" height="30" width="40" /></a>
 <a href="https://medium.com/@zulfiqrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zulfiqrd" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmjKfnD4oDd_lod_7_T4Scw
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="husamrio7" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
