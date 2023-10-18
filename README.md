@@ -7,7 +7,7 @@
 ## <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
 <p align="left">
-<a href="//https://www.youtube.com/channel/UCmjKfnD4oDd_lod_7_T4Scw
+<a href="https://www.youtube.com/channel/UCmjKfnD4oDd_lod_7_T4Scw
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="husamrio7" height="40" width="50" /></a>
 <a href="https://instagram.com/husamrio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_husamrio" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/hussein-wario-57a297249/
