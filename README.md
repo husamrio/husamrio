@@ -19,7 +19,7 @@
 ![](https://img.freepik.com/premium-photo/3d-guy-sitting-laptop-generative-ai_384720-2624.jpg?w=826)
 
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-- **I am an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development & Frontend with a student B.Eng in Robotics and Artificial Intelligence Engineering.**
+- **I am an adaptable, resourceful, and meticulous software engineering intern at [ALX Africa](https://www.alxafrica.com/about/) specializing in back-end development & Frontend and student studying B.Eng in Robotics & Artificial Intelligence Engineering.**
 - **I share innovative tech solutions and insights on my [YouTube Channel](//https://www.youtube.com/channel/UCmjKfnD4oDd_lod_7_T4Scw)** 
 - **`Fun fact about me`**  **I speak fluent sarcasm but cannot write bug-free codes** 😅  😅
 - **`Favorite Quote:`** **If you are always trying to be Normal, you will never know how amazing you can be!**
