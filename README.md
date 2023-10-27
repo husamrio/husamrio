@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/husamrio/husamrio/assets/123378862/0a82748a-e627-43d1-a562-ad28d4ab1bcc)
+![MasterHead](https://github.com/husamrio/husamrio/assets/123378862/0a82748a-e627-43d1-a562-ad28d4ab1bcc)
 <div align="left">
 
   ![](https://komarev.com/ghpvc/?username=husamrio&style=plastic&color=red&label=PROFILE+VIEWS)
