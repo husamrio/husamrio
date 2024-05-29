@@ -14,7 +14,7 @@
 
 ## <b>`Get to know me`</b> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
-- 🌱 I’m currently learning **Full-stack software engineering @ AlX/Holberton,Coursera,CS50 & Udemy.**
+- 🌱 I’m currently learning **Full-stack software engineering @ ALX/Holberton,Coursera,CS50 & Udemy.**
 
 - 💬 Ask me about **C programming Python CSS html & Java script**
 
